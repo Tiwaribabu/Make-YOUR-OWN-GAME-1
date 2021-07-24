@@ -1,0 +1,20 @@
+                                        Ready to take challenge with knowlegde maze
+Story:
+You are infornt of a maze in which u have to answer question to unlock other areas are u ready to take the challenge of going 
+through the maze or you want to step back 
+
+Goal:
+Answeing all the questions and getting through the maze to get out
+
+Elements:
+
+Active:
+The ball/player
+Obstacles
+Camoflauger
+Death Counter
+
+Inactive:
+Background
+Walls
+
